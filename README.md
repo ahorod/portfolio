@@ -5,7 +5,7 @@
 ##This is a webpage that reprents portfolio. This webpage is an individual project in HTML, CSS, Bootstrap.
 
 ##Setup
-* Clone this repository
+* Clone this repository https://github.com/ahorod/portfolio
 * Open index.html in browser
 
 ##Technologies Used
