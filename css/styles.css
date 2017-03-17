@@ -3,11 +3,31 @@ img{
   max-width: 30%;
   max-height: 100%;
   margin-right: 30px;
-  padding-right: 30px;
+  padding-right: 10px;
   padding-bottom: 30px;
 }
 
 p {
-  font-size: 16px;
-  color: #e6005c;
+  font-size: 18px;
+  font-weight: bold;
+  color: #00cc00;
+  text-align: justify;
+}
+
+.panel-info-custom {
+  background: #e6f7ff;
+  border-color: #33ccff
+  }
+.panel-info-custom > .panel-heading {
+  background:#cceeff;
+  color: #00aaff;
+}
+
+.panel-projects {
+  background:#d9ffcc;
+  border-color: #2db300;
+}
+.panel-projects > .panel-heading {
+  background: #b3ff99;
+  color: #33cc00;
 }
