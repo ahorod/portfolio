@@ -7,7 +7,7 @@ img{
   padding-bottom: 30px;
 }
 
-p {
+.objective {
   font-size: 18px;
   font-weight: bold;
   color: #00cc00;
@@ -16,10 +16,10 @@ p {
 
 .panel-info-custom {
   background: #e6f7ff;
-  border-color: #33ccff
+  border-color: #33ccff;
   }
 .panel-info-custom > .panel-heading {
-  background:#cceeff;
+  background: #cceeff;
   color: #00aaff;
 }
 
@@ -30,4 +30,19 @@ p {
 .panel-projects > .panel-heading {
   background: #b3ff99;
   color: #33cc00;
+}
+
+.panel-skills {
+  background:#ffff80;
+  border-color: #999900;
+}
+.panel-skills > .panel-heading {
+  background: #ffff00;
+  color: #b3b300;
+}
+
+.well {
+  background: #cceeff;
+  border-color: #33ccff;
+  text-align: center;
 }
